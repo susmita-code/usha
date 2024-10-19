@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "usha": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
